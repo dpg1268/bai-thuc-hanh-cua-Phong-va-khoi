@@ -8,7 +8,7 @@
             gap: 20px;
         }
             img {
-            width: 800px;  
+            width: 1250px;  
             height: auto;
             border: 1px solid black;
             }
@@ -39,6 +39,7 @@
 <h2> Bài thực hành của Phong và Khôi</h2>
 </body>
 </html>
+
 
 
 
