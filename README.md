@@ -163,7 +163,8 @@
       </aside>
     </div>
     </div>
-<footer>Thiết kế Website: <b>Phong – Khôi</b></footer>
+<footer class="center">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
