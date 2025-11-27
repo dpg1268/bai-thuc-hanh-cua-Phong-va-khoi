@@ -45,6 +45,13 @@
       gap:24px;
       margin-top:18px;
     }
+            .layout1{
+      display:grid;
+      width:320px;
+      grid-template-columns: 1fr 320px;
+      gap:24px;
+      margin-top:18px;
+    }
     .main{
       background:#fff;
       padding:12px;
@@ -76,16 +83,15 @@
     .meta .author{display:flex;align-items:center;gap:6px}
     .meta .author i{width:14px;height:14px;background: #f6a623;border-radius:50%;display:inline-block}
     .excerpt{color:#444;line-height:1.6;font-size:15px; font-weight: bold;}
-    .sidebar{
+        .sidebar{
       background:#fff;
       padding:10px;
       border-radius:6px;
       box-shadow:0 1px 3px rgba(0,0,0,0.06);
-         border: 4px solid transparent;
+        border: 4px solid transparent;
       background: 
         linear-gradient(white, white) padding-box,
         linear-gradient(90deg, #ff7a18, #af002d, #319197) border-box;
-      font-weight: bold;
     }
     .sidebar .item{
       display:flex;
@@ -93,6 +99,10 @@
       padding:10px 8px;
       border-bottom:1px solid #eee;
       align-items:flex-start;
+    }
+    .sidebar .item:last-child{border-bottom:0}
+    .checkbox{
+      width:18px;height:18px;border:2px solid #3fa9f5;border-radius:3px;flex-shrink:0;background:#fff;display:inline-block;position:relative;
     }
     .sidebar .item:last-child{border-bottom:0}
     .checkbox{
@@ -148,7 +158,6 @@
           Sáng ngày 24/11/2025, trong buổi sinh hoạt dưới cờ tuần 13, toàn thể cán bộ, giáo viên và học sinh trường THPT Ea Súp đã tham gia các hoạt động văn nghệ, tuyên dương và chia sẻ những thành tích nổi bật trong học tập và phong trào.
         </p>
 </article>
-<div class="container">
     <aside class="sidebar" aria-label="tin liên quan">
         <div class="item"><span class="checkbox" aria-hidden="true"></span><a href="https://c3easup.daklak.edu.vn/sinh-hoat-duoi-co-tuan-13-truong-thpt-ea-sup.html">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/doan-vien-thanh-nien-truong-thpt-ea-sup-tham-gia-ngay-chu-nhat-xanh-lan-thu-viii.html">ĐOÀN VIÊN THANH NIÊN TRƯỜNG THPT EA SÚP THAM GIA NGÀY CHỦ NHẬT XANH</a></div>
@@ -158,12 +167,3 @@
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
-
-
-
-
-
-
-
-
-
