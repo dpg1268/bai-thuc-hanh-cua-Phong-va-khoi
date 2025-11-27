@@ -154,11 +154,11 @@
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/doan-vien-thanh-nien-truong-thpt-ea-sup-tham-gia-ngay-chu-nhat-xanh-lan-thu-viii.html">ĐOÀN VIÊN THANH NIÊN TRƯỜNG THPT EA SÚP THAM GIA NGÀY CHỦ NHẬT XANH</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/tang-cuong-kiem-tra-co-so-vat-chat-trong-thoi-diem-mua-lon.html">TĂNG CƯỜNG KIỂM TRA CƠ SỞ VẬT CHẤT TRONG THỜI ĐIỂM MƯA LỚN</a></div>
                 <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/ke-hoach-ung-pho-voi-mua-lon-lu-ngap-lut-truong-thpt-ea-sup-nam-hoc-2025-2026.html">KẾ HOẠCH ỨNG PHÓ VỚI MƯA LỚN, LŨ NGẬP, LỤT NĂM HỌC 2025-2026</a></div>
-        <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/ke-hoach-trien-khai-nhiem-vu-phan-cong-thanh-vien-to-tu-van-hoc-duong-va-cong-tac-xa-hoi-nam-hoc-2025-2026.html">KẾ HOẠCH TRIỂN KHAI PHÂN CÔNG TƯ VẤN HỌC ĐƯỜNG VÀ CÔNG TÁC XÃ HỘI</a></div>
       </aside>
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
