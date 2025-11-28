@@ -152,7 +152,7 @@
         <div class="hero">
           <img src="https://c3easup.daklak.edu.vn/wp-content/uploads/z7256103726607_79fe63e266c38bc191b57485784eaa3b.jpg" alt="hình sự kiện trường">
       </div>
-        <h2 class="title">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</h2>
+       <h2 class="title"><a href="https://c3easup.daklak.edu.vn/sinh-hoat-duoi-co-tuan-13-truong-thpt-ea-sup.html">SINH HOẠT DƯỚI CỜ TUẦN 13 – TRƯỜNG THPT EA SÚP</a></h2>
         <div class="meta">
           <div class="author"><i></i><span>.....</span></div>
           <div>24/11/2025</div>
@@ -175,6 +175,7 @@
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
+
 
 
 
