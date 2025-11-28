@@ -138,6 +138,15 @@
     <div style="text-align: center;">
   <img src="https://c3easup.daklak.edu.vn/wp-content/uploads/banner-easup.png" width="1480" height="auto" style="text-align: center;">
     </div>
+    <header>
+            <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 5px;">
+    <marquee behavior="scroll" direction="left" scrollamount="5">
+        <span style="color: red; font-weight: bold; font-size: 18px;">
+            🎉 CHÀO MỪNG NGÀY NHÀ GIÁO VIỆT NAM 20/11 🎉
+        </span>
+    </marquee>
+</div>
+</header>
    <div class="container">
     <div class="topbar" role="banner">
       <div class="hamburger" aria-hidden="true">
@@ -170,14 +179,7 @@
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/quyet-dinh-cong-khai-theo-thong-tu-092025tt-bgddt.html">QUYẾT ĐỊNH CÔNG KHAI THEO THÔNG TƯ 09/2025/TT-BGDĐT</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/ke-hoat-hoat-dong-tuan-tu-tuan-12.html">KẾ HOẠCH HOẠT ĐỘNG TUẦN NĂM HỌC 2025-2026</a></div>
         <div class="item"><span class="checkbox"></span><a href="https://c3easup.daklak.edu.vn/ke-hoach-trien-khai-nhiem-vu-phan-cong-thanh-vien-to-tu-van-hoc-duong-va-cong-tac-xa-hoi-nam-hoc-2025-2026.html">KẾ HOẠCH TRIỂN KHAI PHÂN CÔNG TƯ VẤN HỌC ĐƯỜNG VÀ CÔNG TÁC XÃ HỘI</a></div>
-
       </aside>
     </div>
     </div>
 <footer style="text-align: center;">Thiết kế Website: <b>Phong – Khôi</b></footer>
-
-
-
-
-
-
